@@ -1,0 +1,3 @@
+SECRET_KEY = 'asdsr343f#21'
+TOKEN_EXP = 2*3600
+PWD_SALT = 'dsfs6'

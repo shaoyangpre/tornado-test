@@ -1,0 +1,5 @@
+peewee-async使用
+https://blog.csdn.net/qq_22918243/article/details/99859071?utm_medium=distribute.pc_relevant.none-task-blog-title-1&spm=1001.2101.3001.4242
+https://blog.csdn.net/weixin_43158056/article/details/101507921
+
+objects.excute()
